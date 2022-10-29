@@ -3,6 +3,15 @@
 <p align="left">
 Hi, my name is Fran! Jr Frontend Developer, passionate about the arts. I studied translation because I always found it fascinating to connect people from different cultures through language. Looking for new learning opportunities, I discovered that I can apply my creativity in the tech industry and make possible the connection between people around the world, using the language of programming.
 </p>
+<h4 align="left">Interests:</h4>
+<ul>
+  <li>Painting</li>
+  <li>Drawing</li>
+  <li>Philosophy</li>
+  <li>Poetry</li>
+  <li>90s Music</li>
+  <li>Pilates</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/www.linkedin.com/in/frankurk" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="www.linkedin.com/in/frankurk" width="50" /></a>
 <a href="https://www.caro.cl" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/globe.png" alt="www.caro.cl" width="50" /></a>
