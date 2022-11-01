@@ -3,7 +3,7 @@
 <p align="left">
 Hi, my name is Fran! Jr Frontend Developer, passionate about the arts. I studied translation because I always found it fascinating to connect people from different cultures through language. Looking for new learning opportunities, I discovered that I can apply my creativity in the tech industry and make possible the connection between people around the world, using the language of programming.
 </p>
-<h4 align="left">Interests:</h4>
+<h4 align="left">Things I like:</h4>
 <ul>
   <li>Painting</li>
   <li>Drawing</li>
